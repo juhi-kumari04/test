@@ -4,3 +4,5 @@ const sayHello = (name: string): string => {
 };
 
 console.log(sayHello("TypeScript"));
+
+console.log(sayHello);
